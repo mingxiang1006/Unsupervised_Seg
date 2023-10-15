@@ -1,8 +1,4 @@
 # Unsupervised_Seg
-<<<<<<< HEAD
-
-=======
->>>>>>> a0dfd77bd4fe066a9c72142907a09dc4a4e2d2ad
 This challenge involves unsupervised segmentation of thin section images. There are 1000 unlabeled images in the dataset your job will be to provide a model that can accurately segment the blobs on the thin sections.
 
 Scale is one of the more interesting aspects of science.  Biology investigates genomes and entire ecosystems.  Physics spans quantum forces to gravitational waves from the Big Bang.  Understanding all the different scales for a problem helps us better understand our natural world and how it is changing.  For this challenge, we're asking you to investigate the micrometer scale of geosciences by examining thin sections of rocks and identifying their components.
